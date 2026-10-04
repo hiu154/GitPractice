@@ -1,2 +1,3 @@
 Console.WriteLine("Hello Git and GitHub");
-// This is a simple C# program that prints a message to the console.
+// theem thông tin sinh viên
+Console.WriteLine("Thông tin sinh viên: Lâm Tấn Hiếu, 20 tuổi");
